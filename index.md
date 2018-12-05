@@ -1,3 +1,4 @@
+
 ### Introduction 
 
 I am an introduction. I will be written once the report is complete. I will be thoughtful, insightful, and less than 150 words. People will probably still skip me. I am so lonely. Nobody loves an introduction. 
@@ -7,3 +8,5 @@ Congratulations, you just gave a piece of placeholder copy an existential crisis
 
 You monster.
 
+ - [Slides](https://conference.hitb.org/files/hitbsecconf2018dxb/materials/D2T2%20-%20Are%20You%20Listening%3f%20Auditable%20&%20Provable%20Privacy%20of%20Smart%20Speakers%20-%20Wang%20Kang%20and%20Yang%20Bo.pdf)
+ - DEMO on [Youtube](https://www.youtube.com/watch?v=zro-aUlxEbQ)
